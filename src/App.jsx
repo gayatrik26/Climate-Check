@@ -14,6 +14,7 @@ function App() {
       <TimeAndLocation/>
       <Temprature/>
       <Forecast/>
+      <Forecast/>
     </div>
   )
 }
